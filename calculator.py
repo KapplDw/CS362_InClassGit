@@ -5,7 +5,7 @@ def calc(x, y):
     add = x + y
     subtract = x - y 
     multiply = x * y
-    
+    divide = x / y
      
 
 
