@@ -3,6 +3,7 @@
 
 def calc(x, y):
     add = x + y
+    subtract = x - y 
     
      
 
