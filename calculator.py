@@ -2,7 +2,7 @@
 
 
 def calc(x, y):
-    pass
+    add = x + y
     
      
 
