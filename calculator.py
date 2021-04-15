@@ -1,0 +1,18 @@
+## Calculator
+
+
+def calc(x, y):
+    pass
+    
+     
+
+
+
+# Ask for first value
+
+fValue = input("Enter the first value to evaluate: ")
+
+# Ask for second value
+sValue = input("Enter the second value to evaluate: ")
+
+calc(int(fValue), int(sValue))
