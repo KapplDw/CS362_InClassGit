@@ -6,6 +6,7 @@ def calc(x, y):
     subtract = x - y 
     multiply = x * y
     divide = x / y
+    print("Add: " + add + "Subtract: "+ subtract + "Multiply: " + multiply + "Divide: " + divide)
      
 
 
